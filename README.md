@@ -9,3 +9,6 @@
 
 
 > run in terminal: `python autoclick.py`
+###### Next
+* place the mouse over the place you want to click
+* press key c to autoclicker run or p for pause the command
